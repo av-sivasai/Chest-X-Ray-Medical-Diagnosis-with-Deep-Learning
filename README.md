@@ -22,7 +22,6 @@ For the project we have been working with a ~1000 image subset of the images.
 - 109 images to be used for validation.
 - 420 images to be used for testing.
 
-The dataset includes a CSV file that provides the ground truth labels for each X-ray.
 
 # DenseNet highlights
 
