@@ -113,8 +113,3 @@ Here the model correctly picks up the signs of edema near the bottom of the ches
 
 
 ![](asset/ROC.png)
-
-
-Performance from the ChexNeXt paper (model as well as radiologists):
-
-<img src="https://journals.plos.org/plosmedicine/article/figure/image?size=large&id=10.1371/journal.pmed.1002686.t001" width="80%">
